@@ -1,2 +1,3 @@
-# html-css
- curso de html e css 
+landing-Page
+
+página feita apenas para fins de estudo com css.
